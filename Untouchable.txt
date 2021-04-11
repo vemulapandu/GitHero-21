@@ -1,0 +1,1 @@
+"Develop", as the name suggests, is normally used as a kind of staging environment, or testing environment, into which all new feature/hotfix branches will be merged to establish the effects of the new code, good or bad, before it would be allowed to be merged to the "master" branch.
