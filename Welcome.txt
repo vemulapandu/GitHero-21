@@ -1,0 +1,4 @@
+Welcome to GitHero where we test your git skills through challenging tasks and quizes.
+This repo is for your first task. Complete all the challenges within the given time.
+Tasks will be posted on Aparoksha's Discord server.
+Good Luck!
